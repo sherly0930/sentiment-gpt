@@ -1,0 +1,15 @@
+openai
+requests
+tqdm
+pandas==2.2.2
+numpy==1.26.4
+langid
+langdetect
+textblob 
+nltk
+deep-translator
+contractions
+symspellpy
+streamlit
+python-dotenv
+pyngrok
