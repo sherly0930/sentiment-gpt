@@ -7,6 +7,8 @@ This is my research-based Final Year Project (FYP), which performs sentiment ana
 - Dataset from Hugging Face
 - 16 preprocessing steps, including tokenization, lemmatization, stopwords removal
 - Model training, train-test split, and model evaluation
+- Web deployment through Streamlit
+- Ngrok tunneling to host web app in cloud environment
 - Lightweight and ready to run on Google Colab
 - Code provided in .py and .ipynb formats
 
